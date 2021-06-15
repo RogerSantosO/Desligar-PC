@@ -1,1 +1,1 @@
-Programa feito em C para agendar desligamento do computador 
+Programa feito em C para agendar desligamento do Windows 10
